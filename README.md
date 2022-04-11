@@ -1,1 +1,2 @@
-# pso-meta-opt
+# A particle-swarm-meta-optimization for a neural controller of a bipedal robot
+As part of a bipedal robotics course, I used PSO to optimize a neural controller for walking speed (see [this](https://github.com/bruno-hoermann/pso-meta-opt/files/8463228/Assignment_8.pdf)). Additionally I performed a meta-optimization to find good hyperparameters (see [this](https://github.com/bruno-hoermann/pso-meta-opt/files/8463151/pso-meta.pdf)). Only the code for optimizing benchmark functions is provided.
